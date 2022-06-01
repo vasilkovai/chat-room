@@ -1,4 +1,4 @@
-# chat-room
+# Chat Room 👩‍💻
 
 ## Project setup
 ```
@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Website
+[Join (Firebase Hosting)](https://chat-room-715b1.web.app)

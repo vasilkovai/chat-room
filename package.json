@@ -8,7 +8,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "date-fns": "^2.28.0",
+    "firebase": "^9.8.1",
     "vue": "^3.0.0",
+    "vue-chat-emoji": "^1.1.27",
     "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
